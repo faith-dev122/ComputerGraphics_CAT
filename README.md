@@ -1,6 +1,6 @@
 # COMPUTER GRAPHICS PRACTICAL CAT
 
-Student Name: Faith Gichure  
+Name: Faith Gichure  
 Registration Number: (BSCCS/2024/31978)  
 Course Unit: Computer Graphics  
 Software Used: AutoCAD  
